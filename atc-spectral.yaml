@@ -26,6 +26,6 @@ rules:
     message: 'Error in the format of the api version [only permitted major vesion, example v1]'
     description: 'Error in the format of the operations must be major version, example v1'
     severity: error
-  info-contact: info
+  info-contact: error
   oas2-valid-definition-example: error
   
