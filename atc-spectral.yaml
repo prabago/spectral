@@ -24,5 +24,5 @@ rules:
    type: style
    recommended: true
    message: Error in the format of the api version [only permitted major version, example v1]
-   description: Error in the format of the operations must be major version, example v1
+   description: Error in the format of the api version must be major version, example v1
    severity: error
