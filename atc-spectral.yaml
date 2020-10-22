@@ -28,3 +28,4 @@ rules:
     severity: error
   info-contact: error
   oas2-valid-definition-example: error
+  
