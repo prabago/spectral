@@ -28,7 +28,7 @@ rules:
     severity: error
   info-contact: info
   oas2-valid-definition-example: error
-  
+  info-description: error
   security-oauth:
     description:  The API must contain the security mechanism OAuth2
     message: The API must contain the security mechanism OAuth2 
@@ -55,7 +55,7 @@ rules:
       function: truthy
   security-oauth-password:
     description:  The API must contain the security mechanism OAuth2 password
-    message: The API must contain the security mechanism OAuth2 password
+    message: The API must contain the security mechanism  OAuth2 password
     recommended: true
     severity: error
     formats:
